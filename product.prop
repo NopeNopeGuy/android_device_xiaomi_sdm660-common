@@ -1,3 +1,5 @@
 # Charger
 ro.charger.disable_init_blank=true
 ro.charger.enable_suspend=true
+ro.elixir.maintainer=JustANormalTinkerer
+org.elixir.device=Redmi Note 5 Pro
